@@ -494,3 +494,13 @@ url('../images/company.png') center/cover no-repeat;
 .home section:nth-child(even) {
 	background-color: #f2f2f2;
 }
+
+.equipment thead {
+	background-color: #0c769e;
+}
+.table-striped>tbody>tr:nth-of-type(odd) {
+    background-color: #bdd7ee;
+}
+.table-striped>tbody>tr:nth-of-type(even) {
+    background-color: #ddebf7;
+}
