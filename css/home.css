@@ -25,7 +25,7 @@ section{
 	float:left;
 	width:100%;
 	position:relative;
-	background-color:#004c75;
+	background-color:#345d7e;
 	padding:20px 0px;
     line-height: 20px;
 }
@@ -391,7 +391,7 @@ section{
 	float: left;
 	width: 100%;
 	position: relative;
-	background-color: #004c75;
+	background-color: #345d7e;
 	padding: 50px 0px;
 	font-family: 'Open Sans', sans-serif;
 }
@@ -475,7 +475,7 @@ section{
 	text-transform:uppercase;
 	margin:0px 0px 15px;
 	display:block;	
-	color: #004c75;
+	color: #345d7e;
 }
 
 .get_started_outer_wrap{
